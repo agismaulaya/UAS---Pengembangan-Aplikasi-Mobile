@@ -1,16 +1,7 @@
-# pos_bfc
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-02-10 at 07 29 55](https://github.com/agismaulaya/UAS-Pengembangan-Aplikasi-Mobile/assets/134728148/abfee0da-3df2-45a5-9c0e-d279d4a93f5f)
+![WhatsApp Image 2024-02-10 at 07 29 55 (1)](https://github.com/agismaulaya/UAS-Pengembangan-Aplikasi-Mobile/assets/134728148/f942a578-1626-40b8-9bac-83ef7d5b5423)
+![WhatsApp Image 2024-02-10 at 07 29 55 (2)](https://github.com/agismaulaya/UAS-Pengembangan-Aplikasi-Mobile/assets/134728148/7f18ef8a-a4f2-4e0e-918e-8409361afdb4)
+![WhatsApp Image 2024-02-10 at 07 29 55 (3)](https://github.com/agismaulaya/UAS-Pengembangan-Aplikasi-Mobile/assets/134728148/869391a9-5dec-4b11-89ed-8c646eea26cc)
+![WhatsApp Image 2024-02-10 at 07 29 55 (4)](https://github.com/agismaulaya/UAS-Pengembangan-Aplikasi-Mobile/assets/134728148/47308e3c-6ecc-4019-998e-e3182c3ae684)
+![WhatsApp Image 2024-02-10 at 07 29 55 (5)](https://github.com/agismaulaya/UAS-Pengembangan-Aplikasi-Mobile/assets/134728148/f4572416-ad87-43b5-a4b0-d086022b867b)
+![WhatsApp Image 2024-02-10 at 07 29 56](https://github.com/agismaulaya/UAS-Pengembangan-Aplikasi-Mobile/assets/134728148/6494db9f-0f10-44ed-9a5f-edaae0a3585b)
